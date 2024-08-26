@@ -1,1 +1,1 @@
-Ekan viikon harjotustehtävä missä tehtiin maksimi ja minimi sykkeen laskuri.
+Ekan viikon harjotustehtävä missä tehtiin maksimi/minimi sykkeen laskuri.
